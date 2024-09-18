@@ -21,7 +21,7 @@ de emisión, fecha de caducidad y total. Tener presente que en una misma
 factura o presupuesto puede haber una o varias líneas de detalle con los
 siguientes datos: cantidad, descripción del producto, precio unitario e
 importe, este se calcula con la cantidad y precio unitario del producto.
-
+//asdddddddddddddddddddddddddddddddddddddddddddddd
 * 
 * Realizar un programa que muestre la generación de facturas y
 presupuestos a partir de las ventas realizadas.
